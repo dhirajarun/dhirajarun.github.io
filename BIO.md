@@ -7,6 +7,7 @@ header-links:
   Projects: /projects
   About: /about
 footer-links:
+  RSS: /rss.xml
   github: https://github.com/dhirajarun
   bsky: https://bsky.app/profile/dhrjarun.com
   x: https://x.com/dhrjarun
