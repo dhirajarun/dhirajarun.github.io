@@ -3,6 +3,7 @@ title: Trying Helix Editor
 publishDate: 2025-05-13
 draft: false
 archive: false
+category: writing
 ---
 
 I was scrolling twitter, There was a [tweet](https://x.com/peach2k2/status/1921888383858544872), saying "neovim killer, no lsp config or plugins needed", So I searched for [it](https://helix-editor.com/).

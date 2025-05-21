@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Making comprosmise with the problem
 publishDate: 2024-07-16
 draft: false

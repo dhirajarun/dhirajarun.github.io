@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Video Games
 publishDate: 2024-07-15
 draft: true

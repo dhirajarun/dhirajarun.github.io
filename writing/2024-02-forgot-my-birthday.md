@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Forgot my birthday
 publishDate: 2024-02-28
 draft: false

@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Being Productive as a developer
 publishDate: 2024-01-11
 draft: false

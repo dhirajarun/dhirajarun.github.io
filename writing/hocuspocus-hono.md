@@ -1,4 +1,5 @@
 ---
+category: writing
 title: How to setup hocospocus in Hono
 publishDate: 2025-03-21
 draft: false

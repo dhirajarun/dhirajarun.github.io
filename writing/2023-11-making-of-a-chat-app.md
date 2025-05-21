@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Making of a chat app[BlindBird]
 publishDate: 2023-11-30
 draft: false

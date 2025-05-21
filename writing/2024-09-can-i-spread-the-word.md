@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Can I spread the word?
 publishDate: 2024-09-15
 draft: false

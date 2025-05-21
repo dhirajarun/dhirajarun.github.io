@@ -1,8 +1,10 @@
 ---
-publishDate: 2025-12-27
-lastUpdated: 2025-12-27
+category: now
+publishDate: 2025-02-27
+lastUpdated: 2025-02-27
 draft: false
 ---
+
 ## Work
 
 I work part time as a fullstack engineer for a legal tech company from 8 in the morning to 1 PM. After that I work on my side projects for 1-2 hours depending on my mood.

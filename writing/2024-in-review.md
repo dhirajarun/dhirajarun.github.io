@@ -1,4 +1,5 @@
 ---
+category: writing
 title: 2024 in review
 publishDate: 2025-01-05
 draft: false

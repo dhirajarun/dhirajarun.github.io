@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Dredge Log #2
 publishDate: 2024-09-15
 draft: false

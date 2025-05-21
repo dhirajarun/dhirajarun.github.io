@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Dredge Log 3
 publishDate: 2024-10-19
 draft: false

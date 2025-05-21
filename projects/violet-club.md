@@ -3,6 +3,7 @@ title: Violet
 start: 2024
 end:
 descriptions: A webRTC based platform to play board games with your friend
+category: project
 ---
 
 Visit https://violoet.dhrjarun.com to play. 

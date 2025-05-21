@@ -3,6 +3,7 @@ publishDate: 2024-01-11
 lastUpdated: 2024-01-11
 draft: false
 archive: false
+category: about
 ---
 
 I am Dhiraj. If you are wondering about the meaning of “Dhiraj”, it means Patience. However, from my years of observation and other’s observations on me “dhiraj” doesn’t seem to reflect much of my personality. At the end of the day I do like being referred by it. If you want you can also call me by “Arun” 

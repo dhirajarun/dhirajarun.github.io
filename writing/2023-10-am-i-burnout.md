@@ -1,4 +1,5 @@
 ---
+category: writing
 title: Am I burnout?
 publishDate: 2023-10-22
 draft: false

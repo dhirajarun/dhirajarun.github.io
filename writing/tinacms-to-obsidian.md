@@ -3,6 +3,7 @@ title: Migrating from TinaCMS to Obsidian
 publishDate: 2024-12-30
 draft: false
 archive: false
+category: writing
 ---
 
 I had setup up [TinaCMS](2024-07-integrating-cms-to-my-blog) to make it easier to write and post blog. It made it easy though but to be frank I did not like it much. The reason could be many, but the main would be I wanted something local. 

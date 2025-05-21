@@ -1,4 +1,5 @@
 ---
+category: writing
 title: integrating CMS to my blog
 publishDate: 2024-07-11
 draft: false

@@ -1,4 +1,5 @@
 ---
+category: writing
 title: I built my dream - Dredge
 publishDate: 2024-08-30
 draft: false
