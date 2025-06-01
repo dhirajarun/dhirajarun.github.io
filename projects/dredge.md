@@ -3,7 +3,7 @@ title: Dredge
 start: 2024
 end: 
 descriptions: A typescript library to build type-safe REST APIs
-category: project
+category: projects
 ---
 
 A typescript library I am working on to simplify building REST APIs. 
