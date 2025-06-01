@@ -4,12 +4,13 @@ lastUpdated: 2024-12-22
 header-links:
   Home: /
   Writing: /writing
+  Notes: /notes
   Projects: /projects
-  About: /about
 footer-links:
   RSS: /rss.xml
+  email: mailto:hey@dhirajarun.com
   github: https://github.com/dhirajarun
-  bsky: https://bsky.app/profile/dhrjarun.com
+  bsky: https://bsky.app/profile/dhirajarun.com
   x: https://x.com/dhrjarun
 ---
 
