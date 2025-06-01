@@ -1,9 +1,0 @@
-{
-  "showInlineTitle": false,
-  "showRibbon": false,
-  "useMarkdownLinks": true,
-  "userIgnoreFilters": [
-    "templates/"
-  ],
-  "propertiesInDocument": "source"
-}
