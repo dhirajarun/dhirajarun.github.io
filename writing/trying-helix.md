@@ -17,3 +17,8 @@ VIM and NEOVIM is text editor instead of full fledged IDE, but Helix is an IDE. 
 I have setup `jk` for Escape. Tried setting up typescript, but was getting the error on tree-sitter. Asked about it on matrix server, after publishing this, checked the server and a memeber had already replied; he was able to help, The problem was I forgot to do the step 2 of [installation process](https://docs.helix-editor.com/install.html#pre-built-binaries) and started using the IDE after step 1.
 
 So for now, I am glad, I found this, I'll be using it, will see if it still makes me glad after a week or a month.
+
+## Update
+
+I setup the [evil-helix](https://github.com/usagi-flow/evil-helix) which is helix but keybindings are vim. I still uses nvim as my code IDE, I tried to swtich but it was counterproductive(quite a few major and minor features it lacks), the conflicting keybindings was becoming a pain. So until I could completely switch to helix, I'll keep evil-helix.
+
